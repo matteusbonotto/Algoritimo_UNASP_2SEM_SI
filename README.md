@@ -1,4 +1,5 @@
-## UNASP
+
+## <img src="https://cdn.unasp.br/noticias/wp-content/uploads/2018/11/21164848/Logo-UNASP-03.png" width=20px>  UNASP
 ### Projeto Algoritimo 2ª Semestre Sistemas de Informação
 ##### Neste algoritimo foi trabalhado matrizes calculo por eliminação.
 ---
