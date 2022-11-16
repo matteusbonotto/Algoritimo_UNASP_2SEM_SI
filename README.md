@@ -4,4 +4,4 @@
 ---
 ##### Liguagem utilizada:
 <div> 
-  <img src="https://img.shields.io/badge/-CSharp-darkgreen?style=for-the-badge&logo=CSharp&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-CSharp-darkgreen?style=for-the-badge&logo=C#&logoColor=white"> 
