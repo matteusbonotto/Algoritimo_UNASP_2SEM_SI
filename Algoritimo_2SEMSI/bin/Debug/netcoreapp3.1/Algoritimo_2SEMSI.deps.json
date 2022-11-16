@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Algoritimo_2SEMSI/1.0.0": {
+        "runtime": {
+          "Algoritimo_2SEMSI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritimo_2SEMSI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
