@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.bontoto\\Desktop\\dektop\\Av1\\Thais\\Algoritimo\\Algoritimo_2SEMSI\\Algoritimo_2SEMSI\\Algoritimo_2SEMSI.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Algoritimo\\Algoritimo_2SEMSI\\Algoritimo_2SEMSI.csproj",
       "projectName": "Algoritimo_2SEMSI",
-      "projectPath": "C:\\Users\\matheus.bontoto\\Desktop\\dektop\\Av1\\Thais\\Algoritimo\\Algoritimo_2SEMSI\\Algoritimo_2SEMSI\\Algoritimo_2SEMSI.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Algoritimo\\Algoritimo_2SEMSI\\Algoritimo_2SEMSI.csproj",
       "packagesPath": "C:\\Users\\matheus.bontoto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.bontoto\\Desktop\\dektop\\Av1\\Thais\\Algoritimo\\Algoritimo_2SEMSI\\Algoritimo_2SEMSI\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Algoritimo\\Algoritimo_2SEMSI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

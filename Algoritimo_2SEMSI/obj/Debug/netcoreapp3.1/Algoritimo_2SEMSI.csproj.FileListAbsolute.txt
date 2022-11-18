@@ -12,3 +12,17 @@ C:\Users\matheus.bontoto\Desktop\dektop\Av1\Thais\Algoritimo\Algoritimo_2SEMSI\A
 C:\Users\matheus.bontoto\Desktop\dektop\Av1\Thais\Algoritimo\Algoritimo_2SEMSI\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.dll
 C:\Users\matheus.bontoto\Desktop\dektop\Av1\Thais\Algoritimo\Algoritimo_2SEMSI\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.pdb
 C:\Users\matheus.bontoto\Desktop\dektop\Av1\Thais\Algoritimo\Algoritimo_2SEMSI\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.genruntimeconfig.cache
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\bin\Debug\netcoreapp3.1\Algoritimo_2SEMSI.exe
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\bin\Debug\netcoreapp3.1\Algoritimo_2SEMSI.deps.json
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\bin\Debug\netcoreapp3.1\Algoritimo_2SEMSI.runtimeconfig.json
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\bin\Debug\netcoreapp3.1\Algoritimo_2SEMSI.runtimeconfig.dev.json
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\bin\Debug\netcoreapp3.1\Algoritimo_2SEMSI.dll
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\bin\Debug\netcoreapp3.1\Algoritimo_2SEMSI.pdb
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.AssemblyInfo.cs
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.dll
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.pdb
+C:\xampp\htdocs\Algoritimo\Algoritimo_2SEMSI\obj\Debug\netcoreapp3.1\Algoritimo_2SEMSI.genruntimeconfig.cache
