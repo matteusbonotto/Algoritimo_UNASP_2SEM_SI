@@ -14,9 +14,7 @@ namespace Algoritimo_2SEMSI
         
         
         // Sistema baseado nos arquivo disponibilizado pela professora no portal AVA UNASP
-        // sobre algoritimo para sistemas lineares
-
-        
+        // sobre algoritimo para sistemas lineares   
         private static void Inicio()
         {
             Console.WriteLine("##############################################################################################################");

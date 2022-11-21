@@ -54,6 +54,7 @@ namespace Algoritimo_2SEMSI
         {
             // Para evitar conflitos entre as variaveis, os contadores de cada for["para"], foram
             // nomeados de "i", "j", "k")
+            Console.WriteLine("\n");
             DesenharMatriz(matriz);
             for(int k = 0; k < matriz.GetLength(0)-1; k++)
             {
@@ -84,7 +85,7 @@ namespace Algoritimo_2SEMSI
                 {
                     for(int j = 0; j < matriz.GetLength(1); j++)
                     {
-                        string valor = matriz[1, j].ToString();
+                        string valor = matriz[i, j].ToString();
                         bool negativo = matriz[i, j] < 0;
 
                         if (valor.Replace("-", String.Empty).Length == 1)
@@ -105,7 +106,7 @@ namespace Algoritimo_2SEMSI
                             else
                                 desenhoMatriz += $"   {valor.Replace("-", String.Empty)}";
                     }
-                    
+                    desenhoMatriz += "\n";                    
                 }
                 Console.WriteLine(desenhoMatriz);
             }
